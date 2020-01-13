@@ -2,7 +2,7 @@
   "profiles": {
     "Core": {
       "commandName": "Project",
-      "commandLineArgs": "\"@user1 You will need to speak to @user2 about this\""
+      "commandLineArgs": "\"Please visit http://example.org/frequently-asked-questions/account/returns for more information regarding your problem.\""
     }
   }
 }

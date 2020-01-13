@@ -15,7 +15,7 @@ namespace Core
         /// <value>
         /// The maximum length of a tweet.
         /// </value>
-        public int MaximumTweetLength { get; set; } = 45;
+        public int MaximumTweetLength { get; set; } = 100;
 
         /// <summary>
         /// Gets the format of a single tweet.
